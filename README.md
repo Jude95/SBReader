@@ -1,5 +1,5 @@
 ## SBReader
-String 格式解析工具~~(StringBufferReader)~~。
+String 格式解析工具 ~~(StringBufferReader)~~ 。
 支持字符流。可以方便的使用各种操作符来快速建立对文本数据的解析。
 
 ## Usage
@@ -9,7 +9,7 @@ String 格式解析工具~~(StringBufferReader)~~。
         sbReader.execute(new Skip(3));
         String text = sbReader.execute(new Peek(3));
 ```
-操作符数量众多~~(暂时很少)~~,功能丰富,任意拓展
+操作符数量众多 ~~(暂时很少)~~ ,功能丰富,任意拓展
 
 >
     Back 回退
